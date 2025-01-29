@@ -1,1 +1,1 @@
-# StudentProject
+Project details: Build Education Management Platform using advance java technology (Spring Boot, Rest API, Postman testing tool, MySql databases, frontend, Angular).Which gives various features for students and faculty members
